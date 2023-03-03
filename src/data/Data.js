@@ -6,14 +6,14 @@ import PlayWellOnline from '../assets/PlayWellOnline.png'
 export const data = [
     {
         id:1,
-        name: "Hvor alt startet",
+        name: "Where everything started",
         image: Animation,
         github: "https://github.com/Abdi-kodehode/KodeHode/tree/main/animation",
         live: "https://abdi-kodehode.github.io/KodeHode/animation/",
     },
     {
         id:2,
-        name: "Første API jeg jobbet med",
+        name: "First time working with API",
         image: PokemonAPI,
         github: "https://github.com/Abdi-kodehode/KodeHode/tree/main/PokemonAPI",
         live: "https://abdi-kodehode.github.io/KodeHode/PokemonAPI/",
@@ -27,7 +27,7 @@ export const data = [
     },
     {
         id:4,
-        name: "Praksis plass hos Play Well",
+        name: "Internship at Play Well",
         image: PlayWellOnline,
         github: "https://github.com/Abdi-kodehode/backend",
         live: "https://playwell-online-exux.vercel.app/",
