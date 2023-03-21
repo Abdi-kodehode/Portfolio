@@ -29,7 +29,7 @@ export const data = [
         id:4,
         name: "Internship at Play Well",
         image: PlayWellOnline,
-        github: "https://github.com/Abdi-kodehode/backend",
+        github: "https://github.com/Abdi-kodehode/Internship-Playwell/",
         live: "https://playwell-online-exux.vercel.app/",
     },
 
